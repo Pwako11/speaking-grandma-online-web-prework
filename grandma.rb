@@ -6,12 +6,14 @@
 def speak_to_grandma
   
   greating = "hello grandma"
+  audible = "NO, NOT SINCE 1938!"
+  inaudible = "HUH?! SPEAK UP, SONNY!"
   puts #{greating}
   if 
     greating == "HELLO GRANDMA!" 
     
   else
-    inaudible = "HUH?! SPEAK UP, SONNY!"
+    
     inaudible
 
 # If you shout, she can hear you (or at least she thinks so) 
