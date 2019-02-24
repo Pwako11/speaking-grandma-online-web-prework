@@ -7,7 +7,8 @@ def speak_to_grandma
   
   greating = "hello grandma"
   puts #{greating}
-  if greating == L 
+  if greating == greating.Upcase
+  else
 
 
 # If you shout, she can hear you (or at least she thinks so) 
