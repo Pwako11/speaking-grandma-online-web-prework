@@ -8,6 +8,9 @@ def speak_to_grandma
   greating = "hello grandma"
   audible = "NO, NOT SINCE 1938!"
   inaudible = "HUH?! SPEAK UP, SONNY!"
+  affection = "I LOVE YOU GRANDMA"
+  love1 = "I LOVE YOU GRANDMA"
+  love2 = "I LOVE YOU TOO PUMPKIN"
   puts #{greating}
   if 
     greating == "HELLO GRANDMA!" 
