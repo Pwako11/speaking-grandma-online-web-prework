@@ -8,7 +8,8 @@ def speak_to_grandma
   greating = "hello grandma"
   puts #{greating}
   if 
-    greating == greating.Upcase
+    greating == "HELLO GRANDMA!" 
+    
   else
     inaudible = "HUH?! SPEAK UP, SONNY!"
     inaudible
